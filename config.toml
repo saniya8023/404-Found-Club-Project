@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#A67B5B"          # Light Brown (Coffee/Tan)
+backgroundColor = "#FDFDFD"      # Off-White
+secondaryBackgroundColor = "#F5F1ED" # Sidebar/Cards ka Light Brown shade
+textColor = "#3E2723"            # Dark Brown (Text ke liye)
+font = "sans serif"
