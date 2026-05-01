@@ -1,0 +1,27 @@
+/* Sidebar adjustments */
+[data-testid="stSidebar"] {
+    background-color: #fdfaf7;
+    border-right: 1px solid #e2d1c3;
+}
+
+/* Sidebar Branding */
+.sidebar-title {
+    color: #8B4513;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+/* Cards for Teams */
+.team-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    border-left: 5px solid #8B4513;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: #5d3412;
+}

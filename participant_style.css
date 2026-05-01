@@ -1,0 +1,54 @@
+/* Sidebar Styling */
+[data-testid="stSidebar"] {
+    background-color: #fdfaf7;
+    border-right: 1px solid #e2d1c3;
+}
+
+/* Card Styling */
+.activity-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 6px solid #8B4513;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    margin-bottom: 15px;
+    color: #5D4037;
+}
+
+/* Button Styling */
+.stButton>button {
+    background-color: #8B4513;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    transition: 0.3s;
+}
+
+.stButton>button:hover {
+    background-color: #5D4037;
+    color: #e2d1c3;
+}
+
+/* Profile Section */
+.profile-container {
+    background-color: #fcf8f5;
+    padding: 25px;
+    border-radius: 15px;
+    border: 1px solid #e2d1c3;
+}
+
+/* Chat Bubbles */
+.chat-bubble-me {
+    background-color: #e2d1c3;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px 0;
+    text-align: right;
+}
+
+.chat-bubble-mentor {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px 0;
+}
